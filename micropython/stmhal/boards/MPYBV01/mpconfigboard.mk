@@ -1,0 +1,5 @@
+MCU_SERIES = f4
+CMSIS_MCU = STM32F407xx
+AF_FILE = boards/stm32f407_af.csv
+LD_FILE = boards/stm32f407.ld
+TEXT_ADDR = 0x08004000
